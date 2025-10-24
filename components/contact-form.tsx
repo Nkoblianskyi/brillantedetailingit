@@ -254,7 +254,7 @@ export function ContactForm() {
             <Button
               onClick={() => {
                 setIsOpen(false)
-                window.location.href = "/servizi"
+                window.location.href = "/#servizi"
               }}
               className="flex-1 h-12 bg-accent text-accent-foreground hover:bg-accent/90"
             >

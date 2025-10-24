@@ -45,11 +45,6 @@ export function Footer() {
             <h4 className="font-semibold mb-4">Informazioni Legali</h4>
             <ul className="space-y-2 text-sm">
               <li>
-                <Link href="/note-legali" className="text-primary-foreground/80 hover:text-primary-foreground">
-                  Note Legali
-                </Link>
-              </li>
-              <li>
                 <Link href="/privacy" className="text-primary-foreground/80 hover:text-primary-foreground">
                   Privacy Policy
                 </Link>

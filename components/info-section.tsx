@@ -55,9 +55,6 @@ export function InfoSection() {
                 <br />
                 20145 Milano MI, Italia
               </p>
-              <Button variant="link" className="text-accent hover:text-accent/80 p-0 h-auto font-medium">
-                Ottieni Indicazioni →
-              </Button>
             </div>
 
             <div className="group p-8 bg-white/5 backdrop-blur-sm rounded-2xl border border-white/10 hover:bg-white/10 hover:border-accent/30 transition-all">
